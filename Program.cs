@@ -58,7 +58,7 @@ public class Solution
     {
         if( x == 0)
         {
-            return false;   
+            return true;   
         }
         int remainder, sum = 0;
         int temp = x;
